@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UpGitApplication {
 
     public static void main(String[] args) {
+        System.out.println("UP Project");
         SpringApplication.run(UpGitApplication.class, args);
     }
 
